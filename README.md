@@ -1,5 +1,5 @@
 # Lab09-3-26-2026
-
+### WE WILL CHECK THIS OFF ON THURSDAY APRIL 2
 # Sequential Circuits: Latches
 
 In this lab, you learned about the basic building block of sequential circuits: the latch.
